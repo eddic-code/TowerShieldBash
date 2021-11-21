@@ -1,0 +1,10 @@
+﻿{
+  "Id": "TowerShieldBash",
+  "DisplayName": "Tower Shield Bash",
+  "Author": "Saga",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.23.5.0",
+  "Requirements": [],
+  "AssemblyName": "TowerShieldBash.dll",
+  "EntryMethod": "TowerShieldBash.Main.Load"
+}
